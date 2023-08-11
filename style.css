@@ -2,6 +2,11 @@ body{
     margin: 0px;
 }
 
+aside p::first-letter{
+    font-size: 2em;
+
+}
+
 header{
     background-color: hsl(0, 0%, 72%);
     text-align: center;
