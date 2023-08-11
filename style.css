@@ -1,8 +1,18 @@
 body{
     margin: 0px;
+    background-color: hsl(180, 28%, 63%)
 }
 
-aside p::first-letter{
+article{
+    color: rgb(85, 79, 79);
+}
+
+div{
+    width: 40%;
+    float: left;
+}
+
+article p::first-letter{
     font-size: 2em;
 
 }
