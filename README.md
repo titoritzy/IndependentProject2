@@ -1,5 +1,5 @@
 # IndependentProject2
-This is the second individual project. It is a photography project displaying a gallery of favourite pictures, such as pictures of the natural landscape. It shows the project members and a their short biographies.
+This is the second individual project. It is a photography project displaying a gallery of favourite pictures, such as natural landscape pictures. It shows the project members and their short biographies.
 
 ## Table of Contents
 
@@ -17,14 +17,14 @@ This website typically displays my favourite photos taken by my friends and me, 
 
 ## Live Link
 
-
+titoritzy.github.io/IndependentProject2/ 
 
 ## Features
 
 
 - Clickable Images: The Images take you to its main page.
 - Contact: There is a section where users can send us messages.
-- ...
+
 
 ## Installation
 
