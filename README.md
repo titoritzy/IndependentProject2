@@ -34,5 +34,9 @@ No installation is required. Clicking the live link simply takes you to the webs
 
 Tito, Keleche and Mette took the photos. The three work under a group known as Ritzy Photographers. Tito, however, designed the website all alone.
 
+## License
+
+
+
 
 
