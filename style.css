@@ -44,6 +44,39 @@ header{
     height: 300px;
 }
 
+
+section{
+    background-image: url(tyty.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 1041px;
+    height: 350px;
+    float: right;
+}
+
+section h1{
+    color: rgb(205, 245, 62);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    text-shadow: 3px 3px blue;
+    transform: skewY(170deg);
+    padding: 70px;
+   animation: grow 10s infinite, colorchange 10s infinite;
+}
+
+
+@keyframes grow{
+    100%{transform: scale(2, 2)}
+}
+   
+@keyframes colorchange{
+    10%{color: greenyellow;}
+    30%{color: green;}
+    10%{color: rgb(255, 47, 47);}
+    10%{color: rgb(255, 47, 227);}
+}
+
 aside{
     display: block;
 }
@@ -52,15 +85,15 @@ aside #tito{
     width: 300px;
     height: 450px;
     display: block;
+    float: left;
 }
 
 aside #kelechi{
     width: auto;
     height: auto;
     display: block;
-    margin-top: 3px;
+    margin-top: auto;
     float: right;
-    margin-right: 400px;
     
 }
 
@@ -68,7 +101,7 @@ aside #Mette{
     width: auto;
     height: auto;
     display: block;
-    margin-top: 300px;
+    float: left;
 }
 
 
@@ -80,5 +113,26 @@ aside h3{
 }
 
 #kelechiBio{
- /* text-align: center;    */
+ /* background-color: hsl(33, 14%, 54%); */
+ color: hsl(240, 50%, 38%);
+ width: auto;
+ height: 290px;
+ margin-top: auto;
+ margin-left: 25%;
+
+
 }
+
+#metteBio{
+    color: hsl(240, 50%, 38%);
+    width: auto;
+    height: 300px;
+    margin-top: 0px;
+   }
+
+ #titoBio{
+    color: hsl(240, 50%, 38%);
+    width: 80%;
+    height: 300px;
+    margin-top: 0px;
+   }
