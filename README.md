@@ -15,7 +15,7 @@ This is the second individual project. It is a photography project displaying a 
 This website typically displays my favourite photos taken by my friends and me, Ritzy Photographers.
 
 
-##Live Link
+## Live Link
 
 
 
